@@ -1,0 +1,10 @@
+.github/workflows/build.yml
+YourRepository/
+├── gradlew
+├── gradle/
+├── app/
+├── build.gradle.kts
+├── settings.gradle.kts
+└── .github/
+    └── workflows/
+        └── build.yml
